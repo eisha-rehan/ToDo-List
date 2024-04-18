@@ -1,0 +1,97 @@
+.bg{
+  background-color: #b2f0ff;
+  border-style : solid;
+  border-color : black;
+  border-width : 5px;
+}
+
+#addButton {
+  padding: 2px;
+  width : 100px;
+  font-family: cursive;
+  font-size: 150%;
+  border-width : 5px;
+  margin : 5px;
+  text-align : center;
+  border-style : inset;
+  border-color : slategrey;
+  background-color: #008080;
+}
+
+#aboutButton {
+  padding: 2px;
+  width : 100px;
+  font-family: cursive;
+  font-size: 150%;
+  border-width : 5px;
+  margin : 5px;
+  text-align : center;
+  border-style : inset;
+  border-color : slategrey;
+  background-color: #008080;
+}
+
+hr{
+  border-color : black;
+  border-style : dashed;
+}
+
+#myHeader{
+  text-align : center;
+}
+
+ul {
+  padding-left: 0;
+}
+
+
+/* remove traditional bullet from front of list items */
+
+li {
+  list-style-type: none;
+  background-color: #008080;
+  border: 1px solid #c3c3c3;
+  padding: 10px 0px 10px 5px;
+  font-size : 20px;
+}
+
+.done {
+   background-color: green;
+}
+
+.remove{
+   background-color: red;
+}
+
+/* li.finished */
+.finished {
+  text-decoration : line-through;
+  text-decoration-color : white;
+  text-decoration-thickness : auto;
+}
+
+input[type="text"] {
+  font-size: 18px !important; 
+  width: 100%;
+  padding: 10px;  
+}
+
+.button-class{
+  font-size: 1.2em;
+  width: 3%;
+  margin: -6px 4px 0px 0px;  
+}
+
+
+.red{
+   background-color : #DB5C67;
+}
+
+#divabout {
+  border: 1px solid #c3c3c3;
+  padding: 10px 0px 10px 5px;
+  font-size : 20px;
+}
+
+
+
